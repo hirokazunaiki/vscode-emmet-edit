@@ -1,0 +1,13 @@
+{
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "emmet.syntaxProfiles": {
+      "html": {
+          "filters": "html,c"
+      },
+  },
+  "emmet.preferences": {
+      "filter.commentAfter": "<!-- / [#ID][.CLASS] -->"
+  },
+}
